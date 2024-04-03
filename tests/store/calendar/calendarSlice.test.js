@@ -20,7 +20,7 @@ describe('Pruebas en calendarSlice', () => {
             id: '3',
             start: new Date('2020-10-21 13:00:00'),
             end: new Date('2020-10-21 15:00:00'),
-            title: 'Cumpleaños de Fernando!!',
+            title: 'Cumpleaños de Pablo!!',
             notes: 'Alguna nota!!'
         };
 
@@ -35,7 +35,7 @@ describe('Pruebas en calendarSlice', () => {
             id: '1',
             start: new Date('2020-10-21 13:00:00'),
             end: new Date('2020-10-21 15:00:00'),
-            title: 'Cumpleaños de Fernando actualizado',
+            title: 'Cumpleaños de Pablo actualizado',
             notes: 'Alguna nota actualizada'
         };
 

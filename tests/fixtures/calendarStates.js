@@ -4,7 +4,7 @@ export const events = [
         id: '1',
         start: new Date('2022-10-21 13:00:00'),
         end: new Date('2022-10-21 15:00:00'),
-        title: 'Cumpleaños de Fernando',
+        title: 'Cumpleaños de Pablo',
         notes: 'Alguna nota'
     },
     {

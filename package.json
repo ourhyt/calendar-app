@@ -1,12 +1,13 @@
 {
-  "name": "calendar",
+  "name": "calendar-app",
   "private": true,
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "test": "jest --watchAll"
+    "test": "jest",
+    "test:watch": "jest --watchAll"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",

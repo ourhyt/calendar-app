@@ -9,7 +9,7 @@ import { createSlice } from '@reduxjs/toolkit';
 //     bgColor: '#fafafa',
 //     user: {
 //       _id: '123',
-//       name: 'Fernando'
+//       name: 'Pablo'
 //     }
 // };
 
